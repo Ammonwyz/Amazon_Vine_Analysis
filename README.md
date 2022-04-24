@@ -1,10 +1,10 @@
 # Amazon_Vine_Analysis
 
-##Overview of the analysis: 
+## Overview of the analysis: 
 
 The project is analyzing Amazon reviews written by members of the paid Amazon Vine program, and comparing the difference between Vine and Non-vine reviews.
 
-##Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+## Results: 
 
 How many Vine reviews and non-Vine reviews were there?
 
@@ -18,10 +18,12 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 The percentage of Vine reviews were 5 stars and the percentage of non-Vine reviews were 5 stars are 52.336% and 52.685%.
 
 ![Picture2](https://user-images.githubusercontent.com/95401877/164959189-42cb2d18-5a92-410e-9ae1-35fe2af3d283.png)
+
+
 ![Picture1](https://user-images.githubusercontent.com/95401877/164959190-25f53ddb-4904-4b99-8e8d-b05d836ecfb6.png)
 
 
-##Summary: 
+## Summary: 
 
 Is there any positivity bias for reviews in the Vine program?
 
